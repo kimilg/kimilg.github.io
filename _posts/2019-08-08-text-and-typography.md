@@ -148,7 +148,7 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 ## Images
 
-![bird image](/posts/20230910/bird.jpg){: width="972" height="589" }
+![bird image](/posts/20230910//bird.jpg){: width="472" }
 
 
 ### Default (with caption)
